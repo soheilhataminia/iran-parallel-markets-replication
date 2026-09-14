@@ -37,3 +37,7 @@ The replication files contain the preconstructed monthly series used in the empi
 - Statistical Center of Iran (SCI), Consumer Price Index and purchase-of-vehicles CPI sub-index.
 - Central Bank of the Islamic Republic of Iran (CBI) and Ministry of Roads and Urban Development (MRUD), Tehran residential property transaction-price data.
 - World Gold Council (WGC), historical world gold-price data.
+
+- ## License
+
+The dataset is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. Users are free to share and adapt the data with appropriate attribution.
