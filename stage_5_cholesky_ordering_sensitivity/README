@@ -1,0 +1,17 @@
+# Stage 5 — Cholesky Ordering Sensitivity
+
+This stage evaluates the sensitivity of the four-market FEVD results to alternative Cholesky orderings.
+
+## File
+
+`stage_5_cholesky_ordering_sensitivity.prg`
+
+## Main Tasks
+
+- Re-estimation of the four-variable VECM under alternative variable orderings
+- Cholesky forecast-error variance decomposition
+- Comparison of 12-month FEVDs across orderings
+
+## Software
+
+EViews
