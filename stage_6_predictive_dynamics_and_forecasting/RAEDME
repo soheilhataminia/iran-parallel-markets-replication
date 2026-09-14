@@ -1,0 +1,47 @@
+# Stage 6 - Predictive Dynamics and Forecasting
+
+This stage implements the predictive and dynamic analyses in Python.
+
+## Files
+
+- `stage_6_predictive_dynamics_and_forecasting.py`  
+  Main Stage 6 analysis.
+
+- `bootstrap_targets.py`  
+  Helper functions for bootstrap population targets and centering.
+
+- `stage_6_addendum.py`  
+  Additional robustness and reporting analyses based on the main Stage 6 outputs.
+
+- `stage_6_figures.py`  
+  Generates the Stage 6 figures from the saved analytical outputs.
+
+## Main Tasks
+
+- Construction of USD and coin-premium innovations
+- Local-projection analysis
+- Wild and block-wild bootstrap inference
+- Recursive and stability analysis
+- Pseudo-out-of-sample forecasting
+- Conditional nowcasting
+- Forecast and window-sensitivity checks
+- Episode-exclusion robustness
+- Figure generation
+
+## Execution Order
+
+1. Run `stage_6_predictive_dynamics_and_forecasting.py`
+2. Run `stage_6_addendum.py`
+3. Run `stage_6_figures.py`
+
+`bootstrap_targets.py` is imported by the main Stage 6 script and is not run separately.
+
+## Software
+
+Python
+
+Main dependencies:
+
+- NumPy
+- SciPy
+- Matplotlib
