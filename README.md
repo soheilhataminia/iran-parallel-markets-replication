@@ -22,3 +22,9 @@ Stages 1, 3, 4, and 5 use EViews.
 Stages 2 and 6 use Python.
 
 Each stage contains its own README with the relevant files and execution details.
+
+## License
+
+Code is released under the MIT License.
+
+The dataset in `data/` is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
